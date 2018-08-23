@@ -7,6 +7,8 @@
 ```
 git clone https://github.com/Dmitri801/next-sass-starter.git
 
+cd next-sass-starter
+
 npm install
 ```
 
